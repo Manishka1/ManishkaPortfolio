@@ -1058,7 +1058,7 @@ body.black .top-nav-sec.fixed-nav .top-nav {
     margin-bottom: 20px;
 }
 
-.one-board-section .three-board-desc {
+.two-board-section .three-board-desc {
     margin: 100px 0 0;
     width: 100%;
     display: flex;
@@ -1067,19 +1067,19 @@ body.black .top-nav-sec.fixed-nav .top-nav {
     flex-direction: column;
 }
 
-.one-board-section .three-board-desc span {
+.two-board-section .three-board-desc span {
     font-size: var(--font20);
     color: #787878;
 }
 
-.one-board-section .three-board-desc h3 {
+.two-board-section .three-board-desc h3 {
     font-size: var(--font60);
     color: #232323;
     font-weight: 600;
     margin: 10px 0 20px;
 }
 
-.one-board-section .advantages-images-wrapper {
+.two-board-section .advantages-images-wrapper {
     height: 100%;
     width: 100%;
     position: relative;
@@ -1088,27 +1088,27 @@ body.black .top-nav-sec.fixed-nav .top-nav {
     align-items: center;
 }
 
-.one-board-section .single-advantage-image {
+.two-board-section .single-advantage-image {
     width: 74%;
     border-radius: 32px;
     background-color: #fff;
     box-shadow: 5px 5px 10px #D9D9D9, -5px -5px 10px #FFFFFF;
 }
 
-.one-board-section .advantages-images-wrapper .single-advantage-image .svg-wrapper {
+.two-board-section .advantages-images-wrapper .single-advantage-image .svg-wrapper {
     position: relative;
     width: 100%;
     height: 100%;
     /* display: none; */
 }
 
-.one-board-section .advantages-images-wrapper .single-advantage-image .svg-wrapper img.main-content {
+.two-board-section .advantages-images-wrapper .single-advantage-image .svg-wrapper img.main-content {
     width: 100%;
     height: auto;
     border-radius: 16px;
 }
 
-.one-board-section .advantages-images-wrapper .single-advantage-image svg.main-content {
+.two-board-section .advantages-images-wrapper .single-advantage-image svg.main-content {
     width: 100%;
     height: auto;
     position: absolute;
@@ -1117,7 +1117,7 @@ body.black .top-nav-sec.fixed-nav .top-nav {
     transform: translate(-50%, -50%);
 }
 
-.one-board-section .advantages-images-wrapper .single-advantage-image svg.percent-left {
+.two-board-section .advantages-images-wrapper .single-advantage-image svg.percent-left {
     width: 52%;
     height: auto;
     position: absolute;
@@ -1126,7 +1126,7 @@ body.black .top-nav-sec.fixed-nav .top-nav {
     transform: translate(-50%, -50%);
 }
 
-.one-board-section .advantages-images-wrapper .single-advantage-image svg.ranking-right {
+.two-board-section .advantages-images-wrapper .single-advantage-image svg.ranking-right {
     width: 52%;
     height: auto;
     position: absolute;
@@ -1135,7 +1135,7 @@ body.black .top-nav-sec.fixed-nav .top-nav {
     transform: translate(-50%, -50%);
 }
 
-.one-board-section .advantages-images-wrapper .single-advantage-image svg.left-chat {
+.two-board-section .advantages-images-wrapper .single-advantage-image svg.left-chat {
     width: 76.9%;
     height: auto;
     position: absolute;
@@ -1144,7 +1144,7 @@ body.black .top-nav-sec.fixed-nav .top-nav {
     transform: translate(-50%, -50%);
 }
 
-.one-board-section .advantages-images-wrapper .single-advantage-image svg.right-earth {
+.two-board-section .advantages-images-wrapper .single-advantage-image svg.right-earth {
     width: 56%;
     height: auto;
     position: absolute;
@@ -1153,7 +1153,7 @@ body.black .top-nav-sec.fixed-nav .top-nav {
     transform: translate(-50%, -50%);
 }
 
-.one-board-section .advantages-images-wrapper .single-advantage-image svg.left-info-board {
+.two-board-section .advantages-images-wrapper .single-advantage-image svg.left-info-board {
     width: 56%;
     height: auto;
     position: absolute;
@@ -1162,7 +1162,7 @@ body.black .top-nav-sec.fixed-nav .top-nav {
     transform: translate(-50%, -50%);
 }
 
-.one-board-section .advantages-images-wrapper .single-advantage-image svg.right-rating {
+.two-board-section .advantages-images-wrapper .single-advantage-image svg.right-rating {
     width: 56%;
     height: auto;
     position: absolute;
@@ -1171,11 +1171,11 @@ body.black .top-nav-sec.fixed-nav .top-nav {
     transform: translate(-50%, -50%);
 }
 
-.one-board-section .advantages-detail {
+.two-board-section .advantages-detail {
     width: 100%;
 }
 
-.one-board-section .advantages-detail .single-advantage {
+.two-board-section .advantages-detail .single-advantage {
     height: 100vh;
     width: 100%;
     padding: 0 5%;
@@ -1185,12 +1185,12 @@ body.black .top-nav-sec.fixed-nav .top-nav {
     flex-direction: column;
 }
 
-.one-board-section .advantages-detail .single-advantage>span {
+.two-board-section .advantages-detail .single-advantage>span {
     font-size: var(--font20);
     color: #a177b4;
 }
 
-.one-board-section .advantages-detail .single-advantage>h4 {
+.two-board-section .advantages-detail .single-advantage>h4 {
     font-size: var(--font48);
     color: #232323;
     font-weight: 600;
@@ -1198,20 +1198,20 @@ body.black .top-nav-sec.fixed-nav .top-nav {
     text-align: center;
 }
 
-.one-board-section .advantages-detail .single-advantage>p {
+.two-board-section .advantages-detail .single-advantage>p {
     font-size: var(--font16);
     color: #787878;
     margin-bottom: 20px;
     text-align: center;
 }
 
-.one-board-section .advantages-detail .marketing-cate {
+.two-board-section .advantages-detail .marketing-cate {
     width: 100%;
     height: auto;
     padding: 0 50px;
 }
 
-.one-board-section .advantages-detail .marketing-cate .single-marketing {
+.two-board-section .advantages-detail .marketing-cate .single-marketing {
     width: 100%;
     height: auto;
     position: relative;
@@ -1219,7 +1219,7 @@ body.black .top-nav-sec.fixed-nav .top-nav {
     outline: none;
 }
 
-.one-board-section .advantages-detail .marketing-cate .single-marketing:before {
+.two-board-section .advantages-detail .marketing-cate .single-marketing:before {
     font-family: 'Font Awesome 5 Free';
     font-weight: 900;
     -webkit-font-smoothing: antialiased;
@@ -1237,23 +1237,23 @@ body.black .top-nav-sec.fixed-nav .top-nav {
     color: #A177B4;
 }
 
-.one-board-section .advantages-detail .marketing-cate .single-marketing.affiliate:before {
+.two-board-section .advantages-detail .marketing-cate .single-marketing.affiliate:before {
     content: "\f2b5";
 }
 
-.one-board-section .advantages-detail .marketing-cate .single-marketing.engagement:before {
+.two-board-section .advantages-detail .marketing-cate .single-marketing.engagement:before {
     content: "\f0eb";
 }
 
-.one-board-section .advantages-detail .marketing-cate .single-marketing.intercept:before {
+.two-board-section .advantages-detail .marketing-cate .single-marketing.intercept:before {
     content: "\f140";
 }
 
-.one-board-section .advantages-detail .marketing-cate .single-marketing.inbound:before {
+.two-board-section .advantages-detail .marketing-cate .single-marketing.inbound:before {
     content: "\f0a1";
 }
 
-.one-board-section .advantages-detail .marketing-cate .single-marketing span {
+.two-board-section .advantages-detail .marketing-cate .single-marketing span {
     font-size: var(--font16);
     font-weight: 600;
     color: #a177b4;
@@ -1261,12 +1261,12 @@ body.black .top-nav-sec.fixed-nav .top-nav {
     margin-bottom: 10px;
 }
 
-.one-board-section .advantages-detail .marketing-cate .single-marketing p {
+.two-board-section .advantages-detail .marketing-cate .single-marketing p {
     font-size: var(--font16);
     color: #787878;
 }
 
-.one-board-section .advantages-detail .marketing-cate .single-marketing p strong {
+.two-board-section .advantages-detail .marketing-cate .single-marketing p strong {
     font-size: var(--font16);
     color: #a177b4;
     font-weight: 600;
@@ -1298,7 +1298,7 @@ body.black .top-nav-sec.fixed-nav .top-nav {
     color: #fff;
 }
 
-.one-board-section .advantages-detail .visitor-icon-list {
+.two-board-section .advantages-detail .visitor-icon-list {
     display: flex;
     margin-top: 20px;
     justify-content: flex-start;
@@ -1306,7 +1306,7 @@ body.black .top-nav-sec.fixed-nav .top-nav {
     width: 100%;
 }
 
-.one-board-section .advantages-detail .visitor-icon-list .single-visitor-icon {
+.two-board-section .advantages-detail .visitor-icon-list .single-visitor-icon {
     width: 30%;
     flex-basis: 30%;
     display: flex;
@@ -1315,36 +1315,36 @@ body.black .top-nav-sec.fixed-nav .top-nav {
     text-align: center;
 }
 
-.one-board-section .advantages-detail .visitor-icon-list .single-visitor-icon>div {
+.two-board-section .advantages-detail .visitor-icon-list .single-visitor-icon>div {
     width: 60px;
     height: 60px;
     border-radius: 16px;
     background-color: #f5f5f5;
 }
 
-.one-board-section .advantages-detail .visitor-icon-list .single-visitor-icon>div i {
+.two-board-section .advantages-detail .visitor-icon-list .single-visitor-icon>div i {
     line-height: 60px;
     font-size: var(--font30);
     color: #232323;
 }
 
-.one-board-section .advantages-detail .visitor-icon-list .single-visitor-icon span {
+.two-board-section .advantages-detail .visitor-icon-list .single-visitor-icon span {
     font-weight: 600;
     font-size: var(--font18);
     padding-top: 10px;
 }
 
-.one-board-section .advantages-detail .visitor-icon-list .single-visitor-icon p {
+.two-board-section .advantages-detail .visitor-icon-list .single-visitor-icon p {
     font-size: var(--font14);
     color: #787878;
 }
 
-.one-board-section .advantages-detail .report-list {
+.two-board-section .advantages-detail .report-list {
     display: flex;
     width: 100%;
 }
 
-.one-board-section .advantages-detail .report-list ul {
+.two-board-section .advantages-detail .report-list ul {
     margin: 0;
     padding: 0 0 0 26px;
     flex-grow: 2;
